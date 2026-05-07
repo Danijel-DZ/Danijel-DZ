@@ -1,6 +1,5 @@
 # 💫 About Me:
-⚙️ I'm a Mechatronics Technician with a passion for robotics, automation, and all things mechatronics. I love tinkering with electronics, writing code to automate processes, and designing innovative solutions to real-world problems.
-I'm a passionate student currently enrolled in the FTN Mechatronics program. I’m excited to dive into the world of robotics, automation, and interdisciplinary engineering.
+⚙️ Mechatronics engineering student at FTN passionate about robotics, embedded systems, and automation. I enjoy working on hands-on projects involving electronics, programming, and control systems, while continuously developing practical engineering skills through technical projects and competitions. Always eager to learn, build, and solve real-world engineering challenges.
 
 
 # 💻 Tech Stack:
